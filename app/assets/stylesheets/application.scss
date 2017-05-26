@@ -1,0 +1,28 @@
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+ 
+ 
+ .welcome {
+  width: 100%;
+  height: 200px;
+  background-color: #FFE3BF;
+ }
+ .welcome-links {
+  background-color: #FFE3BF;
+  border-radius: 4px;
+ }
+ .welcome-links2:link {
+  color: #18B9B5;
+ }
+ .page-space {
+  margin-top: 50px;
+  margin-left: 50px;
+ }
+  .bottom-bar {
+  background-color: #D1FFFE;
+  position: absolute;
+  width: 100%;
+  height: 10%;
+  padding: 10px;
+  bottom: 0;
+ }
